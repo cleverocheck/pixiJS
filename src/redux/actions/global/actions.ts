@@ -1,0 +1,4 @@
+export const CHANGE_APP_STATE: string = 'CHANGE_MONSTERS_ARR'
+export const CHANGE_DAMAGE_EXPLORER: string = 'CHANGE_DAMAGE_EXPLORER'
+export const START_DRAG_EXPLORER: string = 'START_DRAG_EXPLORER'
+export const END_DRAG_EXPLORER: string = 'END_DRAG_EXPLORER'
